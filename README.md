@@ -1,2 +1,3 @@
 # apexautos.github.io
-Pages environment for apexautos repo
+Github pages hosted environment for apex autos (static only),
+Dynamic content hosted on pythonanywhere
