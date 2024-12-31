@@ -32,10 +32,16 @@ Open the terminal in the editor and run the following commands:
 ```
 python -m venv venv
 ```
+## Activate VENV (Windows)
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 venv\Scripts\activate
 ```
+## Activate VENV (Mac/Linux)
+```
+source venv/bin/activate
+```
+## Continue (Universal)
 ```
 cd myproject\myproject
 ```
